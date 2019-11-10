@@ -6,9 +6,9 @@ Kaggle competition 2019 begain
 
 - [猫狗分类](./project/cat\ and\ dog\ classiy/)
 
-![猫狗分类](./image/catanddog.png)
+![猫狗分类](./img/catanddog.png)
 
 - [人民币面额识别](./project/RMBRecongition/)
 
-![人民币面额识别](./image/RMBReog.png)
+![人民币面额识别](./img/RMBReog.png)
 
